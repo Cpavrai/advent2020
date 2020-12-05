@@ -1,0 +1,27 @@
+{
+  "name": "advent2020",
+  "version": "1.0.0",
+  "description": "Source code for solving Advent of Code 2020 (nodejs)",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive './day*/*.spec.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cpavrai/advent2020.git"
+  },
+  "keywords": [
+    "nodejs",
+    "aoc"
+  ],
+  "author": "Cpavrai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cpavrai/advent2020/issues"
+  },
+  "homepage": "https://github.com/Cpavrai/advent2020#readme",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  }
+}
