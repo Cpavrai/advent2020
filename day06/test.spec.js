@@ -2,7 +2,7 @@ const expect = require("chai").expect
 const firstFunc = require("./first")
 const secondFunc = require("./second")
 
-describe("Day 3", () => {
+describe("Day 6", () => {
     describe("Part 1", ()=> {
         it("Should resolve 6", () => firstFunc(
 `abcx
