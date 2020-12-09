@@ -1,5 +1,4 @@
 const fs = require("fs")
-const { resolve } = require("path")
 const path = require("path")
 // const input = fs.readFileSync(path.resolve(__dirname, "./firstinput"), "utf-8")
 
